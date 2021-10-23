@@ -9,3 +9,7 @@ I work on .NET technologies at Microsoft, but my repos represent other things I 
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timheuer&layout=compact&hide=html" alt="timheuer" />
 -->
+
+### 📘 Recent Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
