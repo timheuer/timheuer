@@ -12,9 +12,9 @@ I work on .NET technologies at Microsoft, but my repos represent other things I 
 
 ### 📘 Recent Blog Posts
 <!--START_SECTION:feed-->
+- **[Limited Edition Custom .NET Cycling Jersey](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;dotnet-cycling-kit&#x2F;)**
 - **[Forcing a failure in GitHub Actions based on a condition](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;manually-force-a-failure-in-github-action-step&#x2F;)**
 - **[Adding approval workflow to your GitHub Action](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;add-approval-workflow-to-github-actions&#x2F;)**
 - **[Using GitHub Actions for Bulk Resolving](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;use-github-actions-for-bulk-resolve-issues&#x2F;)**
 - **[Building a Code Analyzer for .NET](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;building-a-code-analyzer-for-net&#x2F;)**
-- **[Generate a GitHub Actions workflow file from dotnet CLI](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;generate-github-actions-workflow-from-cli&#x2F;)**
 <!--END_SECTION:feed-->
