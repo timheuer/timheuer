@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
+          branch: main
           feed-url: https://timheuer.com/feed/rss
           readme-section: feed
           max: 5 # max number of items (default 5)
