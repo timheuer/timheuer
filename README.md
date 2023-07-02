@@ -10,9 +10,9 @@ I work on .NET technologies at Microsoft, but my repos represent other things I 
 
 ### 📘 Recent Blog Posts
 <!--START_SECTION:feed-->
+- **[Creating a VS Code editor extension](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;resx-editor-for-visual-studio-code&#x2F;)**
+- **[Make your VS Code extension more helpful](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;enhance-your-vs-code-extension-listing-easily&#x2F;)**
 - **[Writing an OpenAI plugin for ChatGPT using ASP.NET Core](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;write-an-open-ai-plugin-for-chatgpt-using-aspnet&#x2F;)**
 - **[Contain your excitement for ASP.NET on Azure](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;deploy-dotnet-apps-with-containers-in-visual-studio-fast-and-easy&#x2F;)**
 - **[GitHub Composite Actions are fast way to templatize workflows](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;use-github-composite-actions-for-templates-in-workflows&#x2F;)**
-- **[Limited Edition Custom .NET Cycling Jersey](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;dotnet-cycling-kit&#x2F;)**
-- **[Forcing a failure in GitHub Actions based on a condition](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;manually-force-a-failure-in-github-action-step&#x2F;)**
 <!--END_SECTION:feed-->
