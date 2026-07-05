@@ -10,9 +10,9 @@ I work on .NET technologies at Microsoft, but my repos represent other things I 
 
 ### 📘 Recent Blog Posts
 <!--START_SECTION:feed-->
+- **[I&#39;m Leaving Microsoft](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;retiring-and-leaving-microsoft&#x2F;)**
 - **[Another selfish tool–Endpoint for VS Code](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;rest-client-for-vs-code-endpoint-for-vs-code&#x2F;)**
 - **[AI in My Developer Workflow: From Prompting to Planning](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;my-ai-copilot-developer-workflow-relies-on-planning&#x2F;)**
 - **[Adding environment vars to .NET Aspire services](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;add-environment-variables-to-aspire-services&#x2F;)**
 - **[Anatomy of a .NET devcontainer](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;anatomy-of-a-dotnet-devcontainer&#x2F;)**
-- **[Monitor your GitHub Actions in Visual Studio](https:&#x2F;&#x2F;timheuer.com&#x2F;blog&#x2F;github-actions-extension-for-visual-studio&#x2F;)**
 <!--END_SECTION:feed-->
