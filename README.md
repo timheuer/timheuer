@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Tim.
 
-I work on .NET technologies at Microsoft, but my repos represent other things I like working on in tech as well.
+I used to work on .NET technologies at Microsoft, but my repos represent other things I like working on in tech as well.
 
 - 🌐 https://timheuer.com
 - 🐤 I'm on Twitter <a href="https://twitter.com/timheuer">@timheuer</a>
